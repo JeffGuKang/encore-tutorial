@@ -1,3 +1,1 @@
-## 새로운 branch 생성하는 법
-
-`git branch XXXX`
+달을 부수고 말았다. 
